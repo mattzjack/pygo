@@ -1,2 +1,2 @@
 # pygo
-vpt-style go with python 2 and tkinter
+vpt-style go with python 3 and tkinter
